@@ -1,0 +1,9 @@
+# Ignore artifacts: 
+/.next
+/node_modules
+
+# Ignore files:
+next.d.ts
+package.json
+package.lock.json
+yarn.lock.json

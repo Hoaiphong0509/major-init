@@ -1,0 +1,17 @@
+.button {
+  font-weight: 600;
+  outline: none;
+  white-space: nowrap;
+}
+
+.button.radius-round {
+  border-radius: 0.375rem;
+}
+
+.button.radius-circle {
+  border-radius: 9999px;
+}
+
+.button.radius-none {
+  border-radius: 0;
+}
